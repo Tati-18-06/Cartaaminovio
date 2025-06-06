@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Para Mi Amor 💖</title>
+  <title>Para Mi Amor PINEDA 💖</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -101,7 +101,7 @@
   </header>
 
   <div class="content">
-    <div class="quote">"Eres mi sol en los días nublados, mi calma en la tormenta y mi alegría diaria."</div>
+    <div class="quote">"Eres mi sol en los días nublados, mi calma en la tormenta y mi alegría diaria. Aqunque me hacer renegar amor"</div>
 
     <p>
       Cada momento contigo es un regalo que atesoro. Desde nuestras risas hasta nuestras charlas
@@ -111,15 +111,15 @@
 
     <!-- Galería -->
     <div class="photo-gallery">
-      <img src="https://via.placeholder.com/250x180?text=Foto+1" alt="Foto 1">
-      <img src="https://via.placeholder.com/250x180?text=Foto+2" alt="Foto 2">
-      <img src="https://via.placeholder.com/250x180?text=Foto+3" alt="Foto 3">
+      <img src="https://photos.app.goo.gl/tuTdWaNhZ8GHMMan8" alt="Foto 1">
+      <img src="https://photos.app.goo.gl/1Z8vEQYgJ2xwYE2a6" alt="Foto 2">
+      <img src="https://photos.app.goo.gl/41oVhGcpEg16jaoX8" alt="Foto 3">
     </div>
 
     <!-- Botón sorpresa -->
     <button class="surprise-btn" onclick="showSurprise()">Haz clic para una sorpresa 🎁</button>
     <div class="hidden-message" id="surpriseMessage">
-      Te amo con todo mi corazón 💖. ¡Gracias por ser mi persona favorita en el mundo!
+      Te amo con todo mi corazón 💖. ¡Gracias por ser mi persona favorita en el mundo! vamos a comer pollito quieres? o guesas nomas jaja
     </div>
   </div>
 
@@ -130,7 +130,7 @@
   </audio>
 
   <footer>
-    Hecho con amor 💖 por [Tu novia]
+    Hecho con amor 💖 por [Tu novia quien mas pues]
   </footer>
 
   <script>
@@ -145,7 +145,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Para Mi Amor 💖</title>
+  <title>Para Mi Amor Inst Pineda 💖</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
